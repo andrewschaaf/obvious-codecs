@@ -1,5 +1,5 @@
 
-Copyright (c) 2011 https://github.com/andrewschaaf/obvious-lossless-codecs/contributors
+Copyright (c) 2011 https://github.com/andrewschaaf/obvious-codecs/contributors
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
